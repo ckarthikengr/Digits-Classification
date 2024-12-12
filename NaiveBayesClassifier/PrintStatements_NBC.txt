@@ -1,0 +1,5 @@
+Feature Matrix Shape: (1797, 64)
+Target Vector Shape: (1797,)
+Training Set Shape: (1437, 64)
+Testing Set Shape: (360, 64)
+Model Accuracy: 84.72%
